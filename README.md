@@ -10,13 +10,13 @@ Used cards to display Total Sales, Total Profit, Total Units Sold, Average Unit 
 
 **Visualizations:**
 
-Area Chart: Visualized Total Sales by Month to identify sales trends over time.
+**Area Chart**  : Visualized Total Sales by Month to identify sales trends over time.
 
-Donut Chart: Represented sales contributions by region for regional performance analysis.
+**Donut Chart** : Represented sales contributions by region for regional performance analysis.
 
-Bar Charts: Analyzed Total Sales by Product and Retailer to identify top performers.
+**Bar Charts**  : Analyzed Total Sales by Product and Retailer to identify top performers.
 
-Shape Map: Mapped total sales geographically to uncover sales potential across regions.
+**Shape Map**  : Mapped total sales geographically to uncover sales potential across regions.
 
 **Slicers:**
 Added slicers for Region and Date to enable dynamic filtering and in-depth exploration of the data.
