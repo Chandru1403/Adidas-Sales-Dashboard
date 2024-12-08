@@ -19,6 +19,7 @@ Shape Map: Mapped total sales geographically to uncover sales potential across r
 Added slicers for Region and Date to enable dynamic filtering and in-depth exploration of the data.
 
 **Insights**
+
 **Key Metrics:**
 
 Total Sales: $900M
