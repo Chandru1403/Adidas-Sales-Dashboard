@@ -23,9 +23,13 @@ Added slicers for Region and Date to enable dynamic filtering and in-depth explo
 **Key Metrics:**
 
 Total Sales: $900M
+
 Total Profit: $332M
+
 Total Units Sold: 2M
+
 Average Unit Price: $45
+
 Average Margin Percentage: 45%
 
 Monthly Sales Trends (Area Chart):
