@@ -6,10 +6,12 @@ ________________________________________________________________________________
 
 Analyzed Adidas sales data using Power BI visuals like area charts, filled maps, and bar charts to uncover trends, geographical performance, product insights, and retailer contributions for data-driven decision-making
 
+
 **Key Metrics Display:**
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Used cards to display Total Sales, Total Profit, Total Units Sold, Average Unit Price, and Average Margin Percentage.
+
 
 **Visualizations:**
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -24,6 +26,8 @@ ________________________________________________________________________________
 
 **Slicers:**
 Added slicers for Region and Date to enable dynamic filtering and in-depth exploration of the data.
+
+
 
 **Insights**
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -67,6 +71,8 @@ Walmart and Amazon has the lowest sales, suggesting an opportunity to increase p
 **Top Performing States (Shape Map):**
 
 California, New York, Florida, and Texas are the top states, contributing the most to total sales.
+
+
 
 
 **Actionable Insights:**
