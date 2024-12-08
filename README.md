@@ -1,14 +1,18 @@
 # Adidas-Sales-Dashboard
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Overview**
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Analyzed Adidas sales data using Power BI visuals like area charts, filled maps, and bar charts to uncover trends, geographical performance, product insights, and retailer contributions for data-driven decision-making
 
 **Key Metrics Display:**
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Used cards to display Total Sales, Total Profit, Total Units Sold, Average Unit Price, and Average Margin Percentage.
 
 **Visualizations:**
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Area Chart**  : Visualized Total Sales by Month to identify sales trends over time.
 
@@ -22,8 +26,10 @@ Used cards to display Total Sales, Total Profit, Total Units Sold, Average Unit 
 Added slicers for Region and Date to enable dynamic filtering and in-depth exploration of the data.
 
 **Insights**
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Key Metrics:**
+
 
 Total Sales: $900M
 
@@ -64,6 +70,7 @@ California, New York, Florida, and Texas are the top states, contributing the mo
 
 
 **Actionable Insights:**
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 1) Focus efforts on boosting sales in the Midwest and South Region with targeted campaigns or product customization.
 2) Strengthen marketing for Women’s Athletic Footwear and streetwear,Men Apparel to increase demand in this category.
