@@ -11,8 +11,11 @@ Used cards to display Total Sales, Total Profit, Total Units Sold, Average Unit 
 **Visualizations:**
 
 Area Chart: Visualized Total Sales by Month to identify sales trends over time.
+
 Donut Chart: Represented sales contributions by region for regional performance analysis.
+
 Bar Charts: Analyzed Total Sales by Product and Retailer to identify top performers.
+
 Shape Map: Mapped total sales geographically to uncover sales potential across regions.
 
 **Slicers:**
@@ -32,25 +35,30 @@ Average Unit Price: $45
 
 Average Margin Percentage: 45%
 
-Monthly Sales Trends (Area Chart):
+**Monthly Sales Trends (Area Chart):**
 
 Max Sales: July, August, and December.
 Low Sales: March and February.
 
-Regional Performance (Donut Chart & Shape Map):
+**Regional Performance (Donut Chart):**
 
 West Region shows the highest sales, indicating a strong market presence.
+
 South Region has the lowest sales, suggesting a need for targeted marketing or product adjustments.
-Product Performance (Bar Chart):
+
+**Product Performance (Bar Chart):**
 
 Men’s Street Footwear generates the highest sales, indicating strong demand in this category.
+
 Women’s Athletic Footwear shows low sales, highlighting potential for product or marketing improvements.
-Retailer Performance (Bar Chart):
+
+**Retailer Performance (Bar Chart):**
 
 West Gear Retailer leads in sales, showcasing successful partnerships and strong retailer performance.
+
 Walmart and Amazon has the lowest sales, suggesting an opportunity to increase product visibility or expand partnerships.
 
-Top Performing States (Shape Map):
+**Top Performing States (Shape Map):**
 
 California, New York, Florida, and Texas are the top states, contributing the most to total sales.
 
